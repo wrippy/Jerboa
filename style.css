@@ -1,0 +1,375 @@
+.nav, .nav1, .logo{
+    display: flex;
+    color: black
+}
+
+
+.nav{
+    position: absolute;
+  top: 8px;
+  left: 16px;
+  gap: 50px;
+}
+
+.nav1{
+    gap: 10px;
+    margin-left: 470px;
+}
+#gobi{
+    height: 950px;
+    width: 100%;
+
+}
+
+.logo{
+    justify-content: center;
+    margin-left: 88%;
+}
+
+.trial, .viewimage{
+    border: 2px solid black;
+    background-color: black;
+    height: 100px;
+    width: 300px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    border-radius: 10px;
+}
+
+.img, .globe, .statimg, .imgs{
+    height: 50px;
+    width: 50px;
+}
+#logo{
+    font-family: 'Times New Roman';
+}
+
+.boxtext, text{
+    margin-top: 10%;
+}
+
+.boxtext{
+    color: white;
+}
+.header{
+    display: flex;
+    margin-bottom: 1px;
+}
+.hrnav{
+    border: 1px solid red;
+    width: 100%;
+
+}
+
+.globe{
+    margin-top: 5%;
+}
+
+
+#globetext{
+    margin-top: 7%;
+}
+.abovegobi{
+    border: 2px solid black;
+    width: 100%;
+    height: 200px;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+.ingobi{
+border: 2px solid white;
+width: 400px;
+height: 100px;
+background-color: white;
+text-align: center;
+color: black;
+margin-left: 40%;
+border-radius: 10px;
+}
+
+.text{
+    margin-top: 8%;
+}
+
+
+.about{
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+    margin-top: 8%;
+    margin-left: 10%;
+    gap: 20px;
+}
+
+
+.jerboas, .statextsub, .jerboas2{
+    color: gray;
+}
+
+
+#gobimage{
+    position: relative;
+    bottom: 450px;
+    left: 700px;
+}
+
+.stats, .jerboapicks, .collabs{
+    border: 2px solid antiquewhite;
+    background-color: antiquewhite;
+    height: 500px;
+}
+
+.statexts{
+    text-align: center;
+    margin-top: 5%;
+}
+
+.boxcontain{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.statboxes{
+    border: 2px solid white;
+    background-color: white;
+    height: 200px;
+    width: 500px;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.statimg{
+    margin-left: 2%;
+    margin-top: 1%;
+}
+
+.statext, .statextsub{
+    margin-left: 2%;
+    margin-top: 3%;
+}
+
+.gallery{
+    height: 1000px;
+}
+
+.imgorder, .imgorder1{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+
+.gobi1s, .gobi2s{
+    height: 300px;
+}
+
+.gobi2s{
+    width: 500px;
+}
+
+.imgorder1{
+    margin-top: 1%;
+}
+
+.jerboapicks{
+    margin-top: 1%;
+    text-align: center;
+}
+
+.jerboaimages{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 2%;
+}
+
+.price, .price2{
+    border: 2px solid forestgreen;
+    background-color: forestgreen;
+    width: 50px;
+    height: 50px;
+    border-radius: 40px;
+    position: relative;
+    right: 8%;
+    margin-top: 1%;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.tag{
+    margin-top: 30%;
+}
+
+.best{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.price2{
+    position: relative;
+    right: 8%;
+}
+
+.box, .box1, .box2{
+    border: 2px solid white;
+    background-color: white;
+    width: 451px;
+    height: 100px;
+    margin-top: 2%;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    border-radius: 20px;
+}
+
+.box1{
+    margin-left: 64px;
+}
+.viewimage{
+    margin-top: 5%;
+    margin-left: 43%;
+}
+
+.options{
+    display: flex;
+    gap: 180px;
+}
+.jerboapicks{
+
+    height: 800px;
+}
+
+.box2{
+    width: 398px;
+}
+
+.inbox{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.reviews, .contact{
+    border: 2px solid white;
+    background-color: white;
+    height: 700px;
+}
+
+.think{
+    margin-top: 5%;
+    text-align: center;
+}
+
+.stars{
+    display: flex;
+    margin-top: 8%;
+    margin-left: 5%;
+    gap: 570px;
+}
+
+.review{
+    display: flex;
+    flex-direction: column;
+    margin-top: 1%;
+    margin-left: 5%;
+    border: 2px solid black;
+    width: 20%;
+    padding: 1%;
+}
+.star{
+    height: 25px;
+    width: 25px;
+}
+
+.hreview{
+    border: 1px solid black;
+}
+
+.boxes{
+    display: flex;
+    justify-content: space-between;
+}
+
+.collab{
+    display: flex;
+    justify-content: space-around;
+}
+
+.rots{
+    background-color: white;
+    height: 200px;
+    width: 300px;
+    margin-top: 3%;
+    text-align: center;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+}
+
+.imgs{
+    margin-top: 22%;
+}
+
+.rots > h5{
+    font-family: 'Times New Roman';
+}
+
+.brain{
+    margin-top: 3%;
+}
+
+.contact{
+    height: 400px;
+    text-align: center;
+}
+
+.email{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.button{
+    background-color: antiquewhite;
+    border: 0px;
+    border-radius: 6px;
+    height: 50px;
+    width: 200px;
+}
+
+.form{
+    width: 200px;
+}
+
+input{
+    height: 50px;
+    width: 300px;
+}
+
+.footer{
+    height: 500px;
+    background-color: black;
+}
+
+.foot{
+    display: flex;
+    color: white;
+    justify-content: space-around;
+}
+
+.title{
+    margin-top: 8%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.footimg{
+    height: 25px;
+    width: 25px;
+}
+
+.footcontain{
+    display: flex;
+}
+
+.final{
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    background-color:lightblue
+}
